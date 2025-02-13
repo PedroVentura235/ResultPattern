@@ -66,6 +66,7 @@ Feel free to submit issues, pull requests, or feature requests to improve this p
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+https://www.nuget.org/packages/HttpResultPattern
 
 ## Author
 This package was developed and maintained by Pedro Ventura.
